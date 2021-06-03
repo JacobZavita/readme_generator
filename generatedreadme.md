@@ -1,2 +1,2 @@
- # great project
-## makes things great
+ # nice project
+  ## makes things nice
