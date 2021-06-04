@@ -22,7 +22,7 @@ const readmeFile = {
   create (readme) {
     this.value += `# ${readme.title}\n`
     this.value += `https://github.com/${readme.github}/${readme.title}\n`
-    this.value += `## Description\n${readme.description}\n\n# Table of Contents\n* [Installation](#installation)\n`
+    this.value += `## Description\n${readme.description}\n\n# Table of Contents\n* [Installation](#installation)\n* [Usage](#Usage)\n* [License](#license)\n* [Contributing](#contributing)\n* [Tests](#tests)\n* [Questions](#questions)\n`
     this.value += `# Installation\n${readme.installation}\n`
     this.value += `# Usage\n${readme.usage}\n`
     this.value += `# License\n${readme.license}\n`
