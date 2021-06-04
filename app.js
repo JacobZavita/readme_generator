@@ -53,10 +53,8 @@ const createReadme = () => {
     }
   ])
     .then(readme => {
-      console.log(readme.title)
-      readmeFile.add(`# ${readme.title}
-  ## ${readme.description}`)
-      writeFile('generatedreadme.md', readmeFile.create(), err => {
+      readmeFile.create(readme)
+      writeFile('generatedreadme.md', readmeFile.get(), err => {
         if (err) { console.log(err) }
         console.log('readme file created!')
       })
