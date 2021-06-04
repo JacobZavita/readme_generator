@@ -1,4 +1,4 @@
-# Amazing_Project
+# README_Generator
 Github Repo: https://github.com/alwayssmellitfirst/Amazing_Project
 ![GitHub license](https://img.shields.io/badge/license-APACHE_2.0-blue.svg)
 ## Description
