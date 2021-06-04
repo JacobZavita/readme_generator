@@ -1,7 +1,8 @@
-# Wonderful Project
-https://github.com/wifbwi/Wonderful Project
+# Fantastic
+Github: https://github.com/etgwt/Fantastic
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-makes things wonderful
+makes things fantastic
 
 # Table of Contents
 * [Installation](#installation)
@@ -9,16 +10,17 @@ makes things wonderful
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [Questions](#questions)# Installation
-click here
+* [Questions](#questions)
+# Installation
+qirgfbwerigb
 # Usage
-wotugbwer
+ewrkghiberifb
 # License
-Open
+Licensed under MIT terms.
 # Contributing
-qirbfqr3f
+erigfbq3irofb
 # Tests
-qirbfuqirbf
+eirgbqirebf
 # Questions
-wifbwi
-# wifbfb
+etgwt
+# rwtbrwtb

@@ -39,7 +39,7 @@ const createReadme = () => {
       type: 'list',
       name: 'license',
       message: 'How would you like to license this project?',
-      choices: ['Open', 'Closed', 'Whatever']
+      choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None']
     },
     {
       type: 'input',
