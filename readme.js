@@ -1,22 +1,3 @@
-// const readmeFile = {
-//   top:`Title:`,
-//   readmeBody: [],
-//   readmeDescription: [],
-//   add (readmeString) {
-//     this.readmeBody.push(readmeString)
-    // this.readmeDescription.push(readmeString)
-//   },
-//   create () {
-//     let final = this.top
-//     this.readmeBody.forEach(readmeString => {
-//       final += readmeString
-//     })
-//     return final
-//   }
-// }
-
-// module.exports = readmeFile
-
 const readmeFile = {
   value: '',
   create (readme) {

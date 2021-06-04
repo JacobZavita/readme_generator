@@ -1,6 +1,5 @@
 const { prompt } = require('inquirer')
 const { writeFile } = require('fs')
-const axios = require('axios')
 const readmeFile = require('./readme.js')
 
 const createReadme = () => {
@@ -18,28 +17,28 @@ const createReadme = () => {
     {
       type: 'input',
       name: 'installation',
-      message: 'How do you install the project?'
+      message: 'How do you install the project? What dependencies are required?'
     },
     {
       type: 'input',
       name: 'usage',
-      message: 'How would someone use this?'
+      message: 'How would someone use this? Please provide instructions.'
     },
     {
       type: 'input',
       name: 'contributing',
-      message: 'How should someone contribute to the project?'
+      message: 'Who contributed to the project?'
     },
     {
       type: 'input',
       name: 'tests',
-      message: 'How should someone test the project?'
+      message: 'How should someone test the project? What commands would they use?'
     },
     {
       type: 'list',
       name: 'license',
       message: 'How would you like to license this project?',
-      choices: ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None']
+      choices: ['MIT', 'APACHE_2.0', 'GPL_3.0', 'BSD_3', 'None']
     },
     {
       type: 'input',
