@@ -1,26 +1,25 @@
-# Fantastic
-Github: https://github.com/etgwt/Fantastic
+# Wonderful
+Github Repo: https://github.com/orwfb/Wonderful
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-makes things fantastic
+Makes things wonderful
 
 # Table of Contents
 * [Installation](#installation)
-* [Usage](#Usage)
+* [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
 # Installation
-qirgfbwerigb
+wtgbo4brc
 # Usage
-ewrkghiberifb
+oerwfbqeorbfq
 # License
-Licensed under MIT terms.
+This project is licensed under the MIT terms.
 # Contributing
-erigfbq3irofb
+Contributors: weogbfeobwe
 # Tests
-eirgbqirebf
+The following is needed to test the project: woegworbf
 # Questions
-etgwt
-# rwtbrwtb
+If you have questions, suggestions, or ideas about the repo, open an issue or contact https://github.com/orwfb or email eorfbwrob
